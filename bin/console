@@ -1,0 +1,4 @@
+#!/bin/sh
+
+irb -r './boot.rb'
+
